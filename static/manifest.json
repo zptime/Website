@@ -1,0 +1,16 @@
+{
+    "name": "APP",
+    "short_name": "APP",
+    "display": "fullscreen",
+    "start_url": "/",
+    "theme_color": "#af925d",
+    "background_color": "#fff",
+    "icons": [
+        {
+            "src": "/img/common/icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "related_applications": []
+}
